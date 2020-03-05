@@ -10,7 +10,7 @@ public class minGap {
 	public static void main(String[] args) {
 		
 		Scanner scan = new Scanner(System.in);
-		
+		System.out.println();
 		System.out.println("Welcome to minGap.\nHow many integers in the array?");
 		int length = scan.nextInt();
 		
